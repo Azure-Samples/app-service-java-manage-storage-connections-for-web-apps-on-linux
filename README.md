@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Appservice
-- platforms: java
+description: "Azure App Service basic sample for managing web apps."
+urlFragment: app-service-java-manage-storage-connections-for-web-apps-on-linux
 ---
 
 # Getting Started with Appservice - Manage Linux Web App Storage Account Connection - in Java #
